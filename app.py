@@ -116,11 +116,11 @@ st.write("**Desenvolvedor de Sistemas | Techmillen Consultoria e Projetos**")
 st.write("06/2023 - 05/2024")
 st.write(
     """
-    Trabalhei no desenvolvimento de uma aplicação para o gerenciamento de salões de beleza utilizando C# e .NET, 
-    com interface responsiva construída com Bootstrap e interatividade aprimorada com jQuery. 
-    A aplicação permitia o controle de agendamentos, cadastro de clientes, 
-    gerenciamento de funcionários e serviços, oferecendo uma solução eficiente 
-    para otimizar as operações do negócio.
+        Trabalhei no desenvolvimento de uma aplicação para o gerenciamento de salões de beleza utilizando C# e .NET, 
+        com interface responsiva construída com Bootstrap e interatividade aprimorada com jQuery. 
+        A aplicação permitia o controle de agendamentos, cadastro de clientes, 
+        gerenciamento de funcionários e serviços, oferecendo uma solução eficiente 
+        para otimizar as operações do negócio.
     """
 )
 
