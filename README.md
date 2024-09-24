@@ -1,4 +1,4 @@
-# Currículo Interativo | Agata Domingues
+# Currículo Interativo
 
 ## Descrição do Projeto
 Este é um projeto desenvolvido utilizando **Streamlit**, que gera um currículo interativo online, exibindo as principais informações de perfil, habilidades, histórico de trabalho e projetos. Ele também permite o download do currículo em PDF diretamente pela interface.
