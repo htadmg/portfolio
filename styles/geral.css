@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+*{
+    font-family: "Ubuntu", system-ui;
+}
+a{
+    text-decoration: none;
+    color: white !important;
+    font-weight: 500 !important;
+}
+a:hover{
+    color: #773736 !important;
+    text-decoration: none;
+}
+#MainMenu, footer, header{
+    visibility: hidden;
+}
+
+img{
+    border-radius: 100%;
+    border: 5px solid #cfa9a8;
+}
