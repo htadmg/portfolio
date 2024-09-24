@@ -60,3 +60,5 @@ Inicie o servidor de desenvolvimento com o comando:
 ```bash
 streamlit run .\app.py
 ```
+### Acessar o Projeto
+Abra um navegador e vá para http://localhost::8501 para ver o aplicativo em funcionamento.
